@@ -1,0 +1,16 @@
+#Card-quem-sou{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+#Quem-sou{
+    
+}
+
+#Quem-sou-txt{
+
+}

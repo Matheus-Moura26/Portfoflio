@@ -1,0 +1,12 @@
+#Card-projetos{
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#Projetos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
